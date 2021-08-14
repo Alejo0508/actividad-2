@@ -14,7 +14,7 @@ public class Main {
         Alumno alumno2 = new Alumno("alejandro", 29);
         Alumno alumno3 = new Alumno("eimi", 21);
 
-        System.out.print("¿que lumno desea elegir: 1 ,2 o 3?: ");
+        System.out.print("¿que alumno desea elegir: 1 ,2 o 3?: ");
         alumno = entrada.nextInt();
 
         switch (alumno){
