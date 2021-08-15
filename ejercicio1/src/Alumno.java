@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 
-public class Alumno extends Asignatura{
+public  class Alumno extends Asignatura{
 
     //atributos nombre y edad
     private String nombre;

@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="c79c93d6-600a-4bcd-b95b-bdd2f82e49a4" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Alumno.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Alumno.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -34,9 +35,13 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="ReaderModeSettings">
+    <option name="showLigatures" value="false" />
   </component>
   <component name="RunManager" selected="Application.Main">
     <configuration name="Alumno" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -70,6 +75,8 @@
       <updated>1628954461221</updated>
       <workItem from="1628954462404" duration="24503000" />
       <workItem from="1628981880464" duration="223000" />
+      <workItem from="1628982585076" duration="31000" />
+      <workItem from="1628998740097" duration="3664000" />
     </task>
     <servers />
   </component>
